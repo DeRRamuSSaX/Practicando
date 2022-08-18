@@ -1,0 +1,23 @@
+Hola, bienvenido a la Trivia de la 35:
+
+Vamos a empezar con unas preguntas.
+
+(1) Cual es el lenguaje de programacion favorito de Trini?
+    (a) C.
+    (b) JavaScript.
+    (c) Python.
+
+(2) Cual de las dos es mejor materia?
+    (a) Proyecto Informatico I.
+    (b) Algoritmos.
+    (c) Las dos son lo mejor.
+
+(3) Cual es el mejor profesor de todos?
+    (a) Trini.
+    (b) Serantes.
+    (c) Pardella.
+
+(4) Te gusto esta Trivia?
+    (a) Tuvo buena.
+    (b) El codigo es una garcha.
+    (c) La mejor que he visto hasta ahora.
